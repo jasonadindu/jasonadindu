@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, Business Analysis**
 
-- 📫 How to reach me **canadianbigboy1@gmail.com**
+- 📫 How to reach me **jasonadd47@gmail.com**
 
 - ⚡ Fun fact **My smile is contagious**
 

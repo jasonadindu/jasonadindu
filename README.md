@@ -1,6 +1,7 @@
 ![MasterHead](https://www.charpeni.com/_next/image?url=%2Fstatic%2Fimages%2Farrow-functions-in-class-properties-might-not-be-as-great-as-we-think%2Fbanner.gif&w=1920&q=75)
 <h1 align="center">Hi 👋, I'm Jason Adindu</h1>
 <h3 align="center">A passionate full Stack developer from Nigeria</h3>
+<h3 align="center">Seeking to leverage broad development experience with hands on technical expertise</h3><br>
 
 
 
